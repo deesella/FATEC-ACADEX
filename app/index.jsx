@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <View style={styles.container}>
     <ScrollView>
-        <Text>Pomodoro</Text>
+        <Text>Pomodoro!</Text>
     </ScrollView>
 
 
